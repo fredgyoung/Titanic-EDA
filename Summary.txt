@@ -62,3 +62,7 @@ Embarked
   * Categorical values
   * 2 missing values
 
+Survival by Passenger Class
+  * 1st class passengers had a greater chance of survival than both 2nd and 3rd class passengers
+  * 2nd class passengers had a greater chance of survival than 3rd class passengers
+
